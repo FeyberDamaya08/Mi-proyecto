@@ -10,10 +10,8 @@ public class EntradaScanner {
         int edad = scanner.nextByte();
 
         System.out.println("Hola, " + nombre + ". Tienes " + edad + " años.");
+
+        scanner.close();
     }
-
-        
-
-
 
 }
