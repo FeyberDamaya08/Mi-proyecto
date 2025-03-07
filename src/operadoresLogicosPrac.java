@@ -4,7 +4,7 @@ public class operadoresLogicosPrac {
     public static void main(String[] args) {
        Scanner scanner = new Scanner (System.in);
 
-       System.out.print("Ingresa tres numeros");
+       System.out.println("Ingresa tres numeros");
         Byte num1 = scanner.nextByte();
         Byte num2 = scanner.nextByte();
         Byte num3 = scanner.nextByte();
