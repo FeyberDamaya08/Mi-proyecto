@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class estrucuturasCondicionalejer3 {
+public class estructurasControlejer3 {
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     System.out.println("1 suma");
