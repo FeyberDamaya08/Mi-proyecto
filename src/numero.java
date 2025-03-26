@@ -11,7 +11,7 @@ public class numero {
         if (num<=0) {
             System.out.print("El numero no valido");
         }
-         for (int k=1; k<=num;k++){
+         for (int k=1; k<=num;k++){ 
             for (int j=1;j<=k;j++) {
                 if (j%2==1) {
                    System.out.print(k); 
@@ -24,8 +24,9 @@ public class numero {
                     }
 
                 }
-                System.out.println();
+                
             }
+            System.out.println();
          }
             
         }

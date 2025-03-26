@@ -1,4 +1,4 @@
-public class ejercicio14 {
+public class Ejercicio14 {
     public static void main(String[] args) {
        final byte NUMERO_MULTIPLICADO = 5;
         for (int i=5;i<=50;i++){

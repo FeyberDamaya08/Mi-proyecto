@@ -13,7 +13,7 @@ public class Ejercicio1 {
         }
         else{
             System.out.println("la multiplicacion es"+(int)(num1*num2));
-            System.out.println("la division es"+(num1/num2));
+            System.out.println("la division es"+(int)(num1/num2));
 
         }
     }
