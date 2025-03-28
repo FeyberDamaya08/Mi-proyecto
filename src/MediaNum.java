@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MediaNum {
+public class mediaNum {
     public static void main(String[] args) {
     
     Scanner scanner = new Scanner(System.in);
