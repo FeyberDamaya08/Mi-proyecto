@@ -12,8 +12,14 @@ public class ejerPasv1 {
 
 
          }
+<<<<<<< HEAD
+    }
+
+        
+=======
 
         
     }
 
 
+>>>>>>> e7530f6a912eb0c3f798adc4846f38e62ff0288e
